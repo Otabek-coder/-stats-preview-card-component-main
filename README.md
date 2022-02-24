@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component
-
+### [Live site url](https://stats-preview-component-frontend-mentor.netlify.app/)
 ## Desktop design
 
 #### screenshot
